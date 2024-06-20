@@ -53,13 +53,11 @@ $ npm run dev
 
 <!-- Only Change Username for Different Accounts -->
 
-👤 **Reem**
+👤 **Tasneem**
 
  Platform | Badge |
  --- | --- |
- **GitHub**  | [@Reem-lab](https://github.com/Reem-lab)
- **Twitter** | [Rem79940127](https://twitter.com/Rem79940127)
- **LinkdIn** | [reem-janina](https://www.linkedin.com/in/reem-janina-ab74ab21a/)
+ **LinkdIn** | [Tasneem-Salim](https://www.linkedin.com/in/tasneem-salim-1b1480287/)
 
 
 ## 🤝 Contributing
